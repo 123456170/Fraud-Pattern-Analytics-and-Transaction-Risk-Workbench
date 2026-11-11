@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+imageio
+imageio-ffmpeg
+openpyxl
